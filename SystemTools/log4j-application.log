@@ -1,0 +1,678 @@
+2015-08-06 00:19:18 DEBUG WriteFileTools:22 createAFile - Entering 
+2015-08-06 00:19:18 TRACE WriteFileTools:33 createAFile - Exiting : Success 
+2015-08-06 00:20:47 TRACE WriteFileTools:22 createAFile - Entering 
+2015-08-06 00:20:47 DEBUG WriteFileTools:28 createAFile - Writing or Appending to file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:20:47 DEBUG WriteFileTools:33 createAFile - Writing writing : aaba
+2015-08-06 00:20:47 TRACE WriteFileTools:39 createAFile - Exiting : Success 
+2015-08-06 00:21:16 TRACE WriteFileTools:22 createAFile - Entering 
+2015-08-06 00:21:16 DEBUG WriteFileTools:28 createAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:21:16 DEBUG WriteFileTools:33 createAFile - Writing writing : aaba
+2015-08-06 00:21:16 TRACE WriteFileTools:39 createAFile - Exiting : Success 
+2015-08-06 00:21:59 TRACE WriteFileTools:22 createAFile - Entering 
+2015-08-06 00:21:59 DEBUG WriteFileTools:28 createAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:21:59 DEBUG WriteFileTools:33 createAFile - Writing writing : aaba
+2015-08-06 00:21:59 DEBUG WriteFileTools:36 createAFile - Closing file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:21:59 DEBUG WriteFileTools:41 createAFile - Done with file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:21:59 TRACE WriteFileTools:43 createAFile - Exiting : Success 
+2015-08-06 00:22:29 TRACE WriteFileTools:22 createAFile - Entering 
+2015-08-06 00:22:29 DEBUG WriteFileTools:28 createAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:22:29 DEBUG WriteFileTools:33 createAFile - Writing to file /Users/samuelyoung/Sandbox/TestFilz : aaba
+2015-08-06 00:22:29 DEBUG WriteFileTools:36 createAFile - Closing file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:22:29 DEBUG WriteFileTools:41 createAFile - Done with file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:22:29 TRACE WriteFileTools:43 createAFile - Exiting : Success 
+2015-08-06 00:23:25 TRACE WriteFileTools:22 createOrOverwriteAFile - Entering 
+2015-08-06 00:23:25 DEBUG WriteFileTools:28 createOrOverwriteAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:23:25 DEBUG WriteFileTools:33 createOrOverwriteAFile - Writing to file /Users/samuelyoung/Sandbox/TestFilz : aaba
+2015-08-06 00:23:25 DEBUG WriteFileTools:36 createOrOverwriteAFile - Closing file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:23:25 DEBUG WriteFileTools:41 createOrOverwriteAFile - Done with file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:23:25 TRACE WriteFileTools:43 createOrOverwriteAFile - Exiting : Success 
+2015-08-06 00:24:53 TRACE WriteFileTools:22 createOrOverwriteAFile - Entering 
+2015-08-06 00:24:53 DEBUG WriteFileTools:28 createOrOverwriteAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:24:53 DEBUG WriteFileTools:33 createOrOverwriteAFile - Writing to file /Users/samuelyoung/Sandbox/TestFilz : aaba
+2015-08-06 00:24:53 DEBUG WriteFileTools:36 createOrOverwriteAFile - Closing file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:24:53 DEBUG WriteFileTools:41 createOrOverwriteAFile - Done with file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-06 00:24:53 TRACE WriteFileTools:43 createOrOverwriteAFile - Exiting : Success 
+2015-08-11 13:08:43 TRACE WriteFileTools:22 createOrOverwriteAFile - Entering 
+2015-08-11 13:08:43 DEBUG WriteFileTools:28 createOrOverwriteAFile - Creating or overwriting file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-11 13:08:43 DEBUG WriteFileTools:33 createOrOverwriteAFile - Writing to file /Users/samuelyoung/Sandbox/TestFilz : aaba
+2015-08-11 13:08:43 DEBUG WriteFileTools:36 createOrOverwriteAFile - Closing file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-11 13:08:43 DEBUG WriteFileTools:41 createOrOverwriteAFile - Done with file : /Users/samuelyoung/Sandbox/TestFilz
+2015-08-11 13:08:43 TRACE WriteFileTools:43 createOrOverwriteAFile - Exiting : Success 
+2016-04-26 12:46:06 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:46:07 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:46:07 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:46:07 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:46:22 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:46:22 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:46:22 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:46:22 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:46:36 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:46:36 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:46:36 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:46:36 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:47:44 TRACE CSVdata:46 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:46) Entering application.
+2016-04-26 12:47:44 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:47:44 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:47:44 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:47:44 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:47:44 TRACE CSVdata:49 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:49) Exiting application.
+2016-04-26 12:48:43 TRACE CSVdata:46 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:46) Entering application.
+2016-04-26 12:48:43 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:48:43 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 12:48:43 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 12:48:43 TRACE CSVdata:50 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:50) Exiting application.
+2016-04-26 12:49:19 TRACE CSVdata:46 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:46) Entering application.
+2016-04-26 12:49:19 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:49:19 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,1,c
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: 1
+2016-04-26 12:49:19 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 12:49:19 TRACE CSVdata:50 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:50) Exiting application.
+2016-04-26 12:49:40 TRACE CSVdata:46 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:46) Entering application.
+2016-04-26 12:49:40 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 12:49:40 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,"1",c
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: "1"
+2016-04-26 12:49:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 12:49:40 TRACE CSVdata:50 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:50) Exiting application.
+2016-04-26 13:00:48 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:00:48 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: a
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:00:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:00:48 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:03:08 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:03:08 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:03:08 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: "test1", element: a
+2016-04-26 13:03:08 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:08 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 13:03:08 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:08 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 13:03:08 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:09 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:03:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:03:09 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:03:09 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:03:09 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:09 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:03:28 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:03:28 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: 'test1', element: a
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:03:28 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:03:28 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:04:02 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:04:02 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",b,c
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:04:02 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: b
+2016-04-26 13:04:02 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 13:04:02 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:04:02 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:04:02 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:04:02 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:04:02 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:04:02 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:04:02 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:05:48 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:05:48 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',c
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:05:48 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:05:48 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: c
+2016-04-26 13:05:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:05:48 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:05:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:05:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:05:48 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:05:48 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:05:48 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:06:24 TRACE CSVdata:57 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:57) Entering application.
+2016-04-26 13:06:24 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2"
+2016-04-26 13:06:24 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:06:25 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:06:25 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:06:25 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2"
+2016-04-26 13:06:25 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:06:25 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:06:25 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:06:25 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:06:25 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:06:25 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.. casting
+2016-04-26 13:06:25 TRACE CSVdata:61 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:61) Exiting application.
+2016-04-26 13:14:03 TRACE CSVdata:66 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:66) Entering application.
+2016-04-26 13:14:03 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2",2.1
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:14:03 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:14:03 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:14:03 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.
+2016-04-26 13:14:03 TRACE CSVdata:52 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:52) Token is an integer number.. casting
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2"
+2016-04-26 13:14:03 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:14:03 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.
+2016-04-26 13:14:03 TRACE CSVdata:48 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:48) Token is a floating number.. casting
+2016-04-26 13:14:03 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:14:03 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.
+2016-04-26 13:14:03 TRACE CSVdata:52 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:52) Token is an integer number.. casting
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:14:03 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.
+2016-04-26 13:14:03 TRACE CSVdata:52 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:52) Token is an integer number.. casting
+2016-04-26 13:14:03 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:14:03 TRACE CSVdata:44 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:44) Token is a number.
+2016-04-26 13:14:03 TRACE CSVdata:52 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:52) Token is an integer number.. casting
+2016-04-26 13:14:03 TRACE CSVdata:70 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:70) Exiting application.
+2016-04-26 13:19:09 TRACE CSVdata:73 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:73) Entering application.
+2016-04-26 13:19:09 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2",2.1
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:19:09 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:19:09 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:19:09 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:19:09 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2"
+2016-04-26 13:19:09 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:19:09 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:19:09 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:19:09 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:19:09 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:19:09 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:19:09 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:19:09 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:19:09 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:19:09 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:19:09 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:19:09 TRACE CSVdata:77 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:77) Exiting application.
+2016-04-26 13:20:59 TRACE CSVdata:73 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:73) Entering application.
+2016-04-26 13:20:59 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,2.0,2.1
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:20:59 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:20:59 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: 2.0
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:20:59 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:20:59 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:20:59 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:20:59 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:20:59 TRACE CSVdata:77 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:77) Exiting application.
+2016-04-26 13:22:16 TRACE CSVdata:74 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:74) Entering application.
+2016-04-26 13:22:16 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,2.0,2.1
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:22:16 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:22:16 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: 2.0
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:22:16 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:16 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:22:16 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:16 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:16 TRACE CSVdata:78 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:78) Exiting application.
+2016-04-26 13:22:34 TRACE CSVdata:74 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:74) Entering application.
+2016-04-26 13:22:34 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 13:22:34 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:22:34 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:22:34 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:22:34 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:22:34 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:22:34 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:34 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:34 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 13:22:34 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:22:34 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:22:34 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:34 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:22:35 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:22:35 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:22:35 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:35 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:35 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:22:35 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:35 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:35 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:22:35 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:22:35 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:22:35 TRACE CSVdata:78 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:78) Exiting application.
+2016-04-26 13:33:18 TRACE CSVdata:73 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:73) Entering application.
+2016-04-26 13:33:18 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:33:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:33:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:33:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:33:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 13:33:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:33:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:33:18 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:33:18 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:33:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:33:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:33:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:33:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:33:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:33:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:33:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:33:18 TRACE CSVdata:76 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:76) Exiting application.
+2016-04-26 13:34:18 TRACE CSVdata:73 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:73) Entering application.
+2016-04-26 13:34:18 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:34:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:34:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:34:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:34:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 13:34:18 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:34:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:34:18 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:34:18 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:34:18 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:34:18 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:34:18 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token is an integer number.. casting
+2016-04-26 13:47:32 TRACE CSVdata:79 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:79) Entering application.
+2016-04-26 13:47:32 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:47:32 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:47:32 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:47:32 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:47:32 TRACE CSVdata:62 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:62) Token is an integer number.. casting
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 13:47:32 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:47:32 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:47:32 TRACE CSVdata:49 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:49) Token is a floating number.. casting
+2016-04-26 13:47:32 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:47:32 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:47:32 TRACE CSVdata:45 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:45) Token is a number.
+2016-04-26 13:47:32 TRACE CSVdata:62 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:62) Token is an integer number.. casting
+2016-04-26 13:50:51 TRACE CSVdata:98 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:98) Entering application.
+2016-04-26 13:50:51 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 13:50:51 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 13:50:51 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 13:50:51 TRACE CSVdata:53 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:53) Token is a number.
+2016-04-26 13:50:51 TRACE CSVdata:71 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:71) Token is an integer number.. casting
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 13:50:51 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 13:50:51 TRACE CSVdata:53 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:53) Token is a number.
+2016-04-26 13:50:51 TRACE CSVdata:57 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:57) Token is a floating number.. casting
+2016-04-26 13:50:51 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 13:50:51 TRACE CSVdata:53 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:53) Token is a number.
+2016-04-26 13:50:51 TRACE CSVdata:71 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:71) Token is an integer number.. casting
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 13:50:51 TRACE CSVdata:53 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:53) Token is a number.
+2016-04-26 13:50:51 TRACE CSVdata:71 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:71) Token is an integer number.. casting
+2016-04-26 13:50:51 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 13:50:51 TRACE CSVdata:53 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:53) Token is a number.
+2016-04-26 13:50:51 TRACE CSVdata:71 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:71) Token is an integer number.. casting
+2016-04-26 13:50:51 TRACE CSVdata:101 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:101) Exiting application.
+2016-04-26 15:47:40 TRACE CSVdata:99 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:99) Entering application.
+2016-04-26 15:47:40 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "a",'b',1,"2.0",2.1
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "a"
+2016-04-26 15:47:40 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 15:47:40 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 15:47:40 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:47:40 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 15:47:40 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 15:47:40 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:47:40 TRACE CSVdata:58 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:58) Token is a floating number.. casting
+2016-04-26 15:47:40 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 15:47:40 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:47:40 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 15:47:40 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:47:40 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:47:40 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 15:47:40 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:47:40 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:47:40 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Exiting application.
+2016-04-26 15:48:15 TRACE CSVdata:99 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:99) Entering application.
+2016-04-26 15:48:15 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 15:48:15 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 15:48:15 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 15:48:15 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:48:15 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 15:48:15 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 15:48:15 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:48:15 TRACE CSVdata:58 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:58) Token is a floating number.. casting
+2016-04-26 15:48:15 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 15:48:15 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:48:15 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 15:48:15 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:48:15 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:48:15 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 15:48:15 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 15:48:15 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 15:48:15 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Exiting application.
+2016-04-26 16:08:37 TRACE CSVdata:99 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:99) Entering application.
+2016-04-26 16:08:37 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:08:37 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:08:37 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:08:37 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 16:08:37 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:08:37 TRACE CSVdata:40 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:40) Token is a String
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:08:37 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 16:08:37 TRACE CSVdata:58 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:58) Token is a floating number.. casting
+2016-04-26 16:08:37 DEBUG CSVdata:28 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:28) Processing Line: a,b,c
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:08:37 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 16:08:37 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:08:37 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 16:08:37 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 16:08:37 TRACE CSVdata:36 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:36) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:08:37 TRACE CSVdata:54 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:54) Token does not contain quotes- .
+2016-04-26 16:08:37 TRACE CSVdata:72 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:72) Token is an integer number.. casting
+2016-04-26 16:08:37 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Exiting application.
+2016-04-26 16:14:49 TRACE CSVdata:101 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:101) Entering application.
+2016-04-26 16:14:49 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:14:49 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:14:49 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:14:49 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:14:49 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:14:49 TRACE CSVdata:74 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:74) Token is an integer number.. casting
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:14:49 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:14:49 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:14:49 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:14:49 TRACE CSVdata:95 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:95) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:14:49 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:14:49 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:14:49 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:14:49 TRACE CSVdata:74 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:74) Token is an integer number.. casting
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:14:49 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:14:49 TRACE CSVdata:74 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:74) Token is an integer number.. casting
+2016-04-26 16:14:49 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:14:49 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:14:49 TRACE CSVdata:74 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:74) Token is an integer number.. casting
+2016-04-26 16:14:49 TRACE CSVdata:95 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:95) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:14:49 TRACE CSVdata:104 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:104) Exiting application.
+2016-04-26 16:16:56 TRACE CSVdata:100 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:100) Entering application.
+2016-04-26 16:16:56 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:16:56 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:16:56 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:16:56 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:16:56 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:16:56 TRACE CSVdata:78 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:78) Token is an integer number.. casting
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:16:56 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:16:56 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:16:56 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:16:56 TRACE CSVdata:64 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:64) Trying to cast...
+2016-04-26 16:16:56 TRACE CSVdata:94 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:94) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:16:56 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:16:56 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:16:56 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:16:56 TRACE CSVdata:78 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:78) Token is an integer number.. casting
+2016-04-26 16:16:56 TRACE CSVdata:84 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:84) Can't cast number. Must be a string.
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:16:56 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:16:56 TRACE CSVdata:78 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:78) Token is an integer number.. casting
+2016-04-26 16:16:56 TRACE CSVdata:84 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:84) Can't cast number. Must be a string.
+2016-04-26 16:16:56 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:16:56 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:16:56 TRACE CSVdata:78 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:78) Token is an integer number.. casting
+2016-04-26 16:16:56 TRACE CSVdata:84 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:84) Can't cast number. Must be a string.
+2016-04-26 16:16:56 TRACE CSVdata:94 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:94) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:16:56 TRACE CSVdata:103 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:103) Exiting application.
+2016-04-26 16:18:23 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Entering application.
+2016-04-26 16:18:23 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:18:23 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:18:23 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:18:23 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:18:23 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:18:23 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:18:23 TRACE CSVdata:81 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:81) Success!
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:18:23 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:18:23 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:18:23 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:18:23 TRACE CSVdata:64 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:64) Trying to cast...
+2016-04-26 16:18:23 TRACE CSVdata:66 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:66) Success!
+2016-04-26 16:18:23 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:18:23 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:18:23 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:18:23 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:18:23 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:18:23 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string.
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:18:23 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:18:23 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:18:23 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string.
+2016-04-26 16:18:23 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:18:23 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:18:23 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:18:23 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string.
+2016-04-26 16:18:23 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:18:23 TRACE CSVdata:105 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:105) Exiting application.
+2016-04-26 16:19:03 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Entering application.
+2016-04-26 16:19:03 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:19:03 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:19:03 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:19:03 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:19:03 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:03 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:19:03 TRACE CSVdata:81 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:81) Success!
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:19:03 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:19:03 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:03 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:19:03 TRACE CSVdata:64 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:64) Trying to cast...
+2016-04-26 16:19:03 TRACE CSVdata:66 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:66) Success!
+2016-04-26 16:19:03 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:19:03 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:19:03 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:19:03 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:03 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:19:03 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: a
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:19:03 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:03 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:19:03 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: b
+2016-04-26 16:19:03 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:19:03 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:03 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. casting
+2016-04-26 16:19:03 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: c
+2016-04-26 16:19:03 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:19:03 TRACE CSVdata:105 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:105) Exiting application.
+2016-04-26 16:19:43 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Entering application.
+2016-04-26 16:19:43 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:19:43 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:19:43 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:19:43 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:19:43 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:43 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: 1
+2016-04-26 16:19:43 TRACE CSVdata:81 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:81) Success!
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:19:43 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:19:43 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:43 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:19:43 TRACE CSVdata:64 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:64) Trying to cast :2.1
+2016-04-26 16:19:43 TRACE CSVdata:66 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:66) Success!
+2016-04-26 16:19:43 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:19:43 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:19:43 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:19:43 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:43 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: a
+2016-04-26 16:19:43 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: a
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:19:43 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:43 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: b
+2016-04-26 16:19:43 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: b
+2016-04-26 16:19:43 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:19:43 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes- .
+2016-04-26 16:19:43 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: c
+2016-04-26 16:19:43 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: c
+2016-04-26 16:19:43 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:19:43 TRACE CSVdata:105 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:105) Exiting application.
+2016-04-26 16:20:07 TRACE CSVdata:102 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:102) Entering application.
+2016-04-26 16:20:07 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:20:07 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: "\a",'b',1,"2.0",2.1
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test1, element: "\a"
+2016-04-26 16:20:07 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test2, element: 'b'
+2016-04-26 16:20:07 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test3, element: 1
+2016-04-26 16:20:07 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes : 1
+2016-04-26 16:20:07 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: 1
+2016-04-26 16:20:07 TRACE CSVdata:81 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:81) Success!
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 3 name: test4, element: "2.0"
+2016-04-26 16:20:07 TRACE CSVdata:42 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:42) Token is a String
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 4 name: test5, element: 2.1
+2016-04-26 16:20:07 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes : 2.1
+2016-04-26 16:20:07 TRACE CSVdata:60 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:60) Token is a floating number.. casting
+2016-04-26 16:20:07 TRACE CSVdata:64 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:64) Trying to cast :2.1
+2016-04-26 16:20:07 TRACE CSVdata:66 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:66) Success!
+2016-04-26 16:20:07 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test1":"\\a","test2":"'b'","test3":1,"test4":"2.0","test5":2.1}
+2016-04-26 16:20:07 TRACE CSVdata:26 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:26) Entering: 
+2016-04-26 16:20:07 DEBUG CSVdata:30 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:30) Processing Line: a,b,c
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 0 name: test4, element: a
+2016-04-26 16:20:07 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes : a
+2016-04-26 16:20:07 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: a
+2016-04-26 16:20:07 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: a
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 1 name: test5, element: b
+2016-04-26 16:20:07 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes : b
+2016-04-26 16:20:07 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: b
+2016-04-26 16:20:07 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: b
+2016-04-26 16:20:07 TRACE CSVdata:38 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:38) Adding Element Index: 2 name: test6, element: c
+2016-04-26 16:20:07 TRACE CSVdata:56 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:56) Token does not contain quotes : c
+2016-04-26 16:20:07 TRACE CSVdata:79 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:79) Token is an integer number.. tring to cast: c
+2016-04-26 16:20:07 TRACE CSVdata:86 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:86) Can't cast number. Must be a string: c
+2016-04-26 16:20:07 TRACE CSVdata:96 CSVLinetoJSON - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:96) Exiting: {"test4":"a","test5":"b","test6":"c"}
+2016-04-26 16:20:07 TRACE CSVdata:105 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:105) Exiting application.
+2016-04-26 16:49:34 TRACE CSVdata:165 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:165) Entering application.
+2016-04-26 16:49:34 TRACE CSVdata:168 main - l33tindustries.tools.datastructure.CSVdata.main(CSVdata.java:168) Exiting application.
