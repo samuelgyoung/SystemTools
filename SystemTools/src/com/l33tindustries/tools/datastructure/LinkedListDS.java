@@ -171,6 +171,20 @@ public class LinkedListDS
 		return t;
 	}
 	
+	/*---------------------------------------------------------------------
+    |  Method getNode()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  Returns the node in the order of the number passed in.
+    |			 Returns nothing if list is empty.
+    |
+    |  Pre-condition:  	None.
+    |
+    |  Post-condition: 	Returns the node at the number passed in.
+    |
+    |  Returns: null
+    *-------------------------------------------------------------------*/
 	public Node getNode(int nodeNumber)
 	{
 		logger.trace(getCurrentMethodName() + " Entering ");
@@ -463,8 +477,7 @@ public class LinkedListDS
 			logger.trace(getCurrentMethodName() + " Exiting : " + this.count);
 			return this.count;
 	}
-	
-	
+		
 	/*---------------------------------------------------------------------
     |  Method addNode()
     |
