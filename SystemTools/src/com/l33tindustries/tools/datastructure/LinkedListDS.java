@@ -4,6 +4,8 @@ import org.apache.log4j.Logger;
 
 public class LinkedListDS 
 {
+	//TODO : Bring out the link list so you can have many instances of a linkedlist instead
+	//		 of one.
 	// ---
 	// Reference:
 	// - http://www.mycstutorials.com/articles/data_structures/linkedlists
