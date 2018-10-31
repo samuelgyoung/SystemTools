@@ -85,7 +85,7 @@ public class LinkedListDS
 		head = null;
 		
 		logger.debug(getCurrentMethodName() + " Setting count to 0.");
-		count = 0;
+		this.count = 0;
 		
 		logger.trace(getCurrentMethodName() + " Exiting : true");
 		
@@ -152,7 +152,7 @@ public class LinkedListDS
 
 		Node t = head;
 	
-		if ( count == 0 )
+		if ( this.count == 0 )
 		{
 			logger.debug(getCurrentMethodName() + " Count is 0 for linked list, no last node to return. ");
 			logger.trace(getCurrentMethodName() + " Exiting : null");
@@ -160,7 +160,7 @@ public class LinkedListDS
 		}
 		
 		
-		for (int i = 0; i < count-1; i++)
+		for (int i = 0; i < this.count-1; i++)
 		{
 
 			logger.debug(getCurrentMethodName() + " Node:  " + t.hashCode() + " is not the last node. Trying the next node.");
@@ -200,10 +200,10 @@ public class LinkedListDS
 		{
 			logger.debug(getCurrentMethodName() + " Head does not equals null, so there is a node to return.");
 			
-			if(nodeNumber > count)
+			if(nodeNumber > this.count)
 			{
 				logger.debug(getCurrentMethodName() + " Node number is greater than count. Setting to the search to number of nodes. ");
-				nodeNumber = count;
+				nodeNumber = this.count;
 			}
 			
 			logger.debug(getCurrentMethodName() + " Starting to traverse from the first node. ");
@@ -314,7 +314,7 @@ public class LinkedListDS
 			pPre.setNext(pNew);
 		}
 		
-		count = count + 1;
+		this.count = this.count + 1;
 		
 		logger.trace(getCurrentMethodName() + " Exiting ");
 
@@ -347,7 +347,7 @@ public class LinkedListDS
 		{
 			logger.debug(getCurrentMethodName() + " Destination deletion node is the head. Setting the next node as the new head.");
 			head = pLoc.getNext();
-			count = count - 1;
+			this.count = this.count - 1;
 		}
 		
 		else
@@ -374,7 +374,7 @@ public class LinkedListDS
 			
 			pPre.setNext(pLoc.getNext());
 			
-			count = count - 1;
+			this.count = this.count - 1;
 			
 			return pPre.getData();
 		}
@@ -566,7 +566,19 @@ public class LinkedListDS
 		}
 	}
 	
-	//Used for debug.
+	/*---------------------------------------------------------------------
+    |  Method getCurrentMethodName()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  Gets the method name for debugging
+    |
+    |  Pre-condition:  None.
+    |
+    |  Post-condition: None.
+    |
+    |  Returns: Method Name.
+    *-------------------------------------------------------------------*/
 	private static String getCurrentMethodName() 
  	{ 
  		StackTraceElement stackTraceElements[] = (new Throwable()).getStackTrace(); 
