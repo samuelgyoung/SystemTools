@@ -15,8 +15,6 @@ public class StackDS
 	
 	final static Logger logger = Logger.getLogger(LinkedListDS.class);
 	
-
-	
 	/*---------------------------------------------------------------------
     |  Method StackDS()
     |
