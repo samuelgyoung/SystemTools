@@ -7,7 +7,11 @@ import org.apache.log4j.Logger;
 public class StackDS 
 {
 	
-	//NOTES: A stack is LIFO, all insertions and deletions happen at the top.
+	/*
+	 * NOTES: A stack is LIFO, all insertions and deletions happen at the top.
+	 * - Good for reversing data
+	 * - Used for the 8 Queens Problem.
+	 */
 	
 	final static Logger logger = Logger.getLogger(LinkedListDS.class);
 	
