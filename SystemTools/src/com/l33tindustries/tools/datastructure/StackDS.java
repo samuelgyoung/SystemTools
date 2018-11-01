@@ -7,7 +7,7 @@ import org.apache.log4j.Logger;
 public class StackDS 
 {
 	
-	//NOTE: A stack is LIFO, all insertions and deletions happen at the top.
+	//NOTES: A stack is LIFO, all insertions and deletions happen at the top.
 	
 	final static Logger logger = Logger.getLogger(LinkedListDS.class);
 	
