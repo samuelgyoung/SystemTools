@@ -193,16 +193,19 @@ public class StackDS
     *-------------------------------------------------------------------*/
 	private boolean stackEmpty(Stack stack)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		if (stack.getCount() == 0)
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return true;
 		}
 		
 		else 
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return false;
 		}
-			
+		
 	}
 	
 	/*---------------------------------------------------------------------
@@ -222,6 +225,7 @@ public class StackDS
     *-------------------------------------------------------------------*/
 	public Stack reverseStack(Stack stack)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		Stack reversedStack = new Stack();
 		
 		Node t = stack.getTop();
@@ -240,12 +244,13 @@ public class StackDS
 				t = t.getNext();
 			}
 		}
-		
+		logger.trace(getCurrentMethodName() + " Exiting ");
 		return reversedStack;
 	}
 	
 	public void printStack(Stack stack)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		Node t = stack.getTop();
 		
 		if(stackEmpty(stack) == true)
@@ -262,7 +267,7 @@ public class StackDS
 				t = t.getNext();
 			}
 		}
-		
+		logger.trace(getCurrentMethodName() + " Exiting ");
 	}
 	
 	/*---------------------------------------------------------------------
@@ -282,8 +287,9 @@ public class StackDS
     *-------------------------------------------------------------------*/
 	public int stackCount(Stack stack)
 	{
-		
-		
+		logger.trace(getCurrentMethodName() + " Entering ");
+
+		logger.trace(getCurrentMethodName() + " Exiting ");
 		return stack.getCount();
 	}
 	
@@ -350,7 +356,7 @@ public class StackDS
 		public Node()
 		{
 			logger.trace(getCurrentMethodName() + " Entering ");
-
+			next = null;
 			logger.trace(getCurrentMethodName() + " Exiting ");
 		}
 
