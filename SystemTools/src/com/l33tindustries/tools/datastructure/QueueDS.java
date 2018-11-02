@@ -94,8 +94,6 @@ public class QueueDS
 		}
 	}
 	
-	
-	
 	public void printQueue(Queue queue)
 	{
 		logger.trace(getCurrentMethodName() + " Entering ");
