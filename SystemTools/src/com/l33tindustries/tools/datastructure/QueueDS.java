@@ -35,7 +35,8 @@ public class QueueDS
 		newPtr.setData(dataIn);
 		newPtr.setNext(null);
 		
-		//INSERTING INTO A NULL QUEUE
+		// INSERTING INTO A NULL QUEUE
+		// INSERTING INTO NULL QUEUE
 		if (queue.getCount() == 0)
 		{
 			queue.setFront(newPtr);
@@ -73,6 +74,7 @@ public class QueueDS
 		
 		if(queue.getCount() == 1)
 		{
+			//DELETE THE ONLY ITEM IN THE QUEUE
 			queue.setRear(null);
 		}
 		
