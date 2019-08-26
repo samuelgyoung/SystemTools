@@ -5,7 +5,8 @@ import org.apache.log4j.Logger;
 
 public class QueueDS 
 {
-	/* NOTES: Inserted at the rear and deleted at the front
+	/* Queue Notes: 
+	 * - Inserted at the rear and deleted at the front
 	 * - This makes queues FIFO
 	 * - Inserting is known as enquque
 	 * - Deleting is dequeuing
@@ -36,7 +37,6 @@ public class QueueDS
 		newPtr.setNext(null);
 		
 		// INSERTING INTO A NULL QUEUE
-		// INSERTING INTO NULL QUEUE
 		if (queue.getCount() == 0)
 		{
 			queue.setFront(newPtr);
