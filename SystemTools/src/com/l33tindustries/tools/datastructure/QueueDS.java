@@ -63,6 +63,7 @@ public class QueueDS
 	
 	public boolean dequeue(Queue queue)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		if(queue.getCount() == 0)
 		{
 			return false;
@@ -81,17 +82,21 @@ public class QueueDS
 		queue.setFront(queue.getFront().next);
 		queue.setCount(queue.getCount()-1);
 		
+		logger.trace(getCurrentMethodName() + " Exiting ");
 		return true;
 	}
 	
 	public Object queueFront(Queue queue)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		if( isEmpty(queue) == true)
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return null;
 		}
 		else
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return queue.getQuehead().getFront().data;
 		}
 	}
@@ -121,29 +126,37 @@ public class QueueDS
 	
 	public int queueCount(Queue queue)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
+		logger.trace(getCurrentMethodName() + " Exiting ");
 		return queue.getCount();
 	}
 	
 	public boolean emptyQueue(Queue queue)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		if (queueCount(queue) == 0 )
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return true;
 		}
 		else
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return false;
 		}
 	}
 	
 	public boolean isEmpty(Queue queue)
 	{
+		logger.trace(getCurrentMethodName() + " Entering ");
 		if (queueCount(queue) == 0 )
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return true;
 		}
 		else
 		{
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			return false;
 		}
 	}
@@ -154,6 +167,8 @@ public class QueueDS
 		
 		Queue()
 		{
+			logger.trace(getCurrentMethodName() + " Entering ");
+			logger.trace(getCurrentMethodName() + " Exiting ");
 			this.quehead = new queueHead();
 		}	
 	
