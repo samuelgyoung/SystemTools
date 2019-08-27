@@ -354,7 +354,7 @@ public class QueueDS
 			return quehead;
 		}
 
-		private void setQuehead(queueHead quehead) 
+		public void setQuehead(queueHead quehead) 
 		{
 			logger.trace(getCurrentMethodName() + " Entering ");
 			logger.debug(getCurrentMethodName() + " Setting queue head.");
