@@ -40,10 +40,14 @@ public class BinaryDS
 	QueueDS QueueDS_001;
 	Queue queue_001;
 	
+	Node root;
+	
 	BinaryDS()
 	{
 		this.QueueDS_001 = new QueueDS();
 		this.queue_001 = QueueDS_001.createQueue();
+		
+		this.root = new Node();
 	}
 	
 	//DEPTH FIRST TRAVERSALS ______________________________________________
@@ -188,6 +192,36 @@ public class BinaryDS
 	
 	//END BREADTH-FIRST TRAVERSALS _________________________________________
 
+	//TODO: INFIX NOTATION p.323
+	//TODO: CONVERTTOPAREN p.310
+	
+	
+	/*---------------------------------------------------------------------
+    |  Method  findSmallestBST()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  THis algorithm finds the smallest node in the BST 
+    |	(binary search tree).
+    |
+    |  Pre-condition:  root is the pointer to the nonempty BST or subtree
+    |
+    |  Post-condition: none.
+    |
+    |  Parameters: 
+    |
+    |  Returns: address of smallest node
+    *-------------------------------------------------------------------*/
+	public Object findSmallestBST(Node node)
+	{
+		if(node.getLeftSubTree() == null)
+		{
+			return node;
+		}
+		
+		return findSmallestBST(node.getLeftSubTree());
+	}
+	
 	private class Node
 	{
 		private Node leftSubTree;
