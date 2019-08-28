@@ -40,14 +40,27 @@ public class BinaryDS
 	QueueDS QueueDS_001;
 	Queue queue_001;
 	
-	Node root;
+	Node rootNode;
 	
-	BinaryDS()
+	public BinaryDS()
 	{
 		this.QueueDS_001 = new QueueDS();
 		this.queue_001 = QueueDS_001.createQueue();
 		
-		this.root = new Node();
+		//this.rootNode = new Node();
+	}	
+	
+	public BinaryDS(Object data)
+	{
+		this.QueueDS_001 = new QueueDS();
+		this.queue_001 = QueueDS_001.createQueue();
+		
+		this.rootNode = new Node(data);
+	}	
+	
+	public Node getRootNode()
+	{
+		return rootNode;
 	}
 	
 	//DEPTH FIRST TRAVERSALS ______________________________________________
@@ -201,7 +214,7 @@ public class BinaryDS
     |
     |  Author: sgyoung
     |  
-    |  Purpose:  THis algorithm finds the smallest node in the BST 
+    |  Purpose:  This algorithm finds the smallest node in the BST 
     |	(binary search tree).
     |
     |  Pre-condition:  root is the pointer to the nonempty BST or subtree
@@ -216,10 +229,144 @@ public class BinaryDS
 	{
 		if(node.getLeftSubTree() == null)
 		{
+			logger.debug(getCurrentMethodName() + " No more nodes to the left. Found the lowest value in the tree : " + node.getData());
 			return node;
 		}
 		
+		logger.debug(getCurrentMethodName() + " Still more nodes to the left. Checking next one... ");
 		return findSmallestBST(node.getLeftSubTree());
+	}
+	
+	/*---------------------------------------------------------------------
+    |  Method  findLargestBST()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  This algorithm finds the largest node in the BST 
+    |	(binary search tree).
+    |
+    |  Pre-condition:  root is the pointer to the nonempty BST or subtree
+    |
+    |  Post-condition: none.
+    |
+    |  Parameters: 
+    |
+    |  Returns: address of the largest node
+    *-------------------------------------------------------------------*/
+	public Object findLargestBST(Node root)
+	{
+		if(root.getRightSubTree() == null)
+		{
+			logger.debug(getCurrentMethodName() + " No more nodes to the right. Found the highest value in the tree : " + root.getData());
+			return root;
+		}
+		
+		logger.debug(getCurrentMethodName() + " Still more nodes to the left. Checking next one... ");
+		return findSmallestBST(root.getRightSubTree());
+	}
+	
+	/*---------------------------------------------------------------------
+    |  Method  searchBST()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  Search a BST for a given value.
+    |
+    |  Pre-condition:  root is the root to a binary tree or subtree argument is
+    |	the key value requested.
+    |
+    |  Post-condition: none.
+    |
+    |  Parameters: 
+    |
+    |  Returns: the node address if the value is found
+    |	null if the node is not in the tree
+    *-------------------------------------------------------------------*/
+	public <T extends Comparable<T>> Node searchBST(Node root, T value)
+	{
+		
+		//Using Comparable allows us to handle different data types (int, character etc...)
+		
+		if(root == null )
+		{
+			logger.debug(getCurrentMethodName() + "Node is null. Value wasn't found.");
+			return null;
+		}
+		//if(value < Current Nodes Data), go left
+		if(value.compareTo((T) root.getData()) < 0)
+		{
+			logger.debug(getCurrentMethodName() + " Moving to the left node on the tree... ");
+			return searchBST(root.getLeftSubTree(), value);
+		}
+		//if(value > Current Nodes Data), go right
+		else if(value.compareTo((T) root.getData()) > 0)
+		{
+			logger.debug(getCurrentMethodName() + " Moving to the right node on the tree... ");
+			return searchBST(root.getRightSubTree(), value);
+		}
+		else
+		{
+			logger.debug(getCurrentMethodName() + " Found the node that contains the value. ");
+			return root;
+		}	
+	}
+	
+	/*---------------------------------------------------------------------
+    |  Method  insertBST()
+    |
+    |  Author: sgyoung
+    |  
+    |  Purpose:  Insert node containing new node into BST using iteration.
+    |
+    |  Pre-condition:  root is the address of first node in BST
+    |	new is address of node containing data to be inserted.
+    |
+    |  Post-condition: new node inserted into the tree
+    |
+    |  Parameters: 
+    |
+    |  Returns: 
+    *-------------------------------------------------------------------*/
+	public <T extends Comparable<T>> void insertBST(Node root, T value)
+	{
+		if(root == null )
+		{
+			logger.debug(getCurrentMethodName() + "Node is null. Inserting a new node.");
+			root = new Node(value);
+		}
+		else
+		{
+			Node nodeWalk = root;
+			
+			while(nodeWalk != null)
+			{
+				Node parent = nodeWalk;
+				//if(value < Current Nodes Data), go left
+				if(value.compareTo((T) nodeWalk.getData()) < 0)
+				{
+					logger.debug(getCurrentMethodName() + " Comparing : " + value + " " + nodeWalk.getData() + " Going left");
+					nodeWalk = nodeWalk.getLeftSubTree();
+				}
+				else
+				{
+					logger.debug(getCurrentMethodName() + " Comparing : " + value + " " + nodeWalk.getData() + " Going right");
+					nodeWalk = nodeWalk.getRightSubTree();
+				}
+			}
+			logger.debug(getCurrentMethodName() + " Location of new node found for insert.");
+			
+			//if(value < Current Nodes Data), go left
+			if(value.compareTo((T) nodeWalk.getData()) < 0)
+			{
+				logger.debug(getCurrentMethodName() + " Comparing : " + value + " " + nodeWalk.getData() + " Inserting left");
+				nodeWalk.setLeftSubTree(new Node(value));
+			}
+			else
+			{
+				logger.debug(getCurrentMethodName() + " Comparing : " + value + " " + nodeWalk.getData() + " Inserting right");
+				nodeWalk.setRightSubTree(new Node(value));
+			}
+		}
 	}
 	
 	private class Node
@@ -227,6 +374,15 @@ public class BinaryDS
 		private Node leftSubTree;
 		private Node rightSubTree;
 		private Object data;
+		
+		public Node(Object data)
+		{
+			logger.trace(getCurrentMethodName() + " Entering ");
+			this.leftSubTree = null;
+			this.rightSubTree = null;
+			this.data = data;
+			logger.trace(getCurrentMethodName() + " Exiting ");
+		}
 		
 		public Node()
 		{
